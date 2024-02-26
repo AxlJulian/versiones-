@@ -1,0 +1,5 @@
+npm install axios sweetalert2 sweetalert2-react-content
+npm install sweetalert2 sweetalert2-react-content      
+npm install axios   
+npm i react-router-dom   
+npm i react-router-dom axios bootstrap sweetalert2 sweetalert2-react-content
